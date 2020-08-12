@@ -4,6 +4,8 @@
 
 This module provides the connection between product entities and merchant entities.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
